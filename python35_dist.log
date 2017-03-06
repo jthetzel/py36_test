@@ -1,0 +1,30 @@
+total 0
+drwxr-xr-x  27 jthetzel  2091778452   918B  6 Mar 12:15 test
+
+dist35/test:
+total 21896
+-rw-r--r--  1 jthetzel  2091778452    86K  6 Mar 12:15 _bz2.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.4M  6 Mar 12:15 _hashlib.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452   143K  6 Mar 12:15 _lzma.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452    65K  6 Mar 12:15 _socket.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452   2.0M  6 Mar 12:15 _ssl.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:15 api-ms-win-crt-conio-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    22K  6 Mar 12:15 api-ms-win-crt-convert-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:15 api-ms-win-crt-environment-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    20K  6 Mar 12:15 api-ms-win-crt-filesystem-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:15 api-ms-win-crt-heap-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:15 api-ms-win-crt-locale-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    27K  6 Mar 12:15 api-ms-win-crt-math-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:15 api-ms-win-crt-process-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    23K  6 Mar 12:15 api-ms-win-crt-runtime-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    24K  6 Mar 12:15 api-ms-win-crt-stdio-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    24K  6 Mar 12:15 api-ms-win-crt-string-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    21K  6 Mar 12:15 api-ms-win-crt-time-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:15 api-ms-win-crt-utility-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452   744K  6 Mar 12:15 base_library.zip
+-rw-r--r--  1 jthetzel  2091778452   186K  6 Mar 12:15 pyexpat.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452   3.8M  6 Mar 12:15 python35.dll
+-rw-r--r--  1 jthetzel  2091778452    20K  6 Mar 12:15 select.cp35-win_amd64.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.3M  6 Mar 12:15 test.exe
+-rw-r--r--  1 jthetzel  2091778452   1.0K  6 Mar 12:15 test.exe.manifest
+-rw-r--r--  1 jthetzel  2091778452   846K  6 Mar 12:15 unicodedata.cp35-win_amd64.pyd

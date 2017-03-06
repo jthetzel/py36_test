@@ -1,0 +1,56 @@
+total 0
+drwxr-xr-x  53 jthetzel  2091778452   1.8K  6 Mar 12:11 test
+
+dist36/test:
+total 23688
+-rw-r--r--  1 jthetzel  2091778452    86K  6 Mar 12:11 _bz2.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.4M  6 Mar 12:11 _hashlib.pyd
+-rw-r--r--  1 jthetzel  2091778452   242K  6 Mar 12:11 _lzma.pyd
+-rw-r--r--  1 jthetzel  2091778452    64K  6 Mar 12:11 _socket.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.7M  6 Mar 12:11 _ssl.pyd
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-console-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-datetime-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-debug-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-errorhandling-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    22K  6 Mar 12:11 api-ms-win-core-file-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-file-l1-2-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-file-l2-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-handle-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-heap-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-interlocked-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-libraryloader-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    21K  6 Mar 12:11 api-ms-win-core-localization-l1-2-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-memory-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-namedpipe-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-processenvironment-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    20K  6 Mar 12:11 api-ms-win-core-processthreads-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-processthreads-l1-1-1.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-profile-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-rtlsupport-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-string-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    20K  6 Mar 12:11 api-ms-win-core-synch-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-synch-l1-2-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-core-sysinfo-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-timezone-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    18K  6 Mar 12:11 api-ms-win-core-util-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-crt-conio-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    22K  6 Mar 12:11 api-ms-win-crt-convert-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-crt-environment-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    20K  6 Mar 12:11 api-ms-win-crt-filesystem-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-crt-heap-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-crt-locale-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    27K  6 Mar 12:11 api-ms-win-crt-math-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-crt-process-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    23K  6 Mar 12:11 api-ms-win-crt-runtime-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    24K  6 Mar 12:11 api-ms-win-crt-stdio-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    24K  6 Mar 12:11 api-ms-win-crt-string-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    21K  6 Mar 12:11 api-ms-win-crt-time-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452    19K  6 Mar 12:11 api-ms-win-crt-utility-l1-1-0.dll
+-rw-r--r--  1 jthetzel  2091778452   718K  6 Mar 12:11 base_library.zip
+-rw-r--r--  1 jthetzel  2091778452   177K  6 Mar 12:11 pyexpat.pyd
+-rw-r--r--  1 jthetzel  2091778452   3.4M  6 Mar 12:11 python36.dll
+-rw-r--r--  1 jthetzel  2091778452    20K  6 Mar 12:11 select.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.2M  6 Mar 12:11 test.exe
+-rw-r--r--  1 jthetzel  2091778452   1.0K  6 Mar 12:11 test.exe.manifest
+-rw-r--r--  1 jthetzel  2091778452   974K  6 Mar 12:11 ucrtbase.dll
+-rw-r--r--  1 jthetzel  2091778452   878K  6 Mar 12:11 unicodedata.pyd

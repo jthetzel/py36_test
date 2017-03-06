@@ -1,0 +1,25 @@
+total 0
+drwxr-xr-x  18 jthetzel  2091778452   612B  6 Mar 12:13 test
+
+dist34/test:
+total 22104
+drwxr-xr-x  3 jthetzel  2091778452   102B  6 Mar 12:13 Include
+-rw-r--r--  1 jthetzel  2091778452   810K  6 Mar 12:13 MSVCR100.dll
+-rw-r--r--  1 jthetzel  2091778452    62K  6 Mar 12:13 _bz2.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.1M  6 Mar 12:13 _hashlib.pyd
+-rw-r--r--  1 jthetzel  2091778452   133K  6 Mar 12:13 _lzma.pyd
+-rw-r--r--  1 jthetzel  2091778452    51K  6 Mar 12:13 _socket.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.7M  6 Mar 12:13 _ssl.pyd
+-rw-r--r--  1 jthetzel  2091778452   719K  6 Mar 12:13 base_library.zip
+-rw-r--r--  1 jthetzel  2091778452   164K  6 Mar 12:13 pyexpat.pyd
+-rw-r--r--  1 jthetzel  2091778452   3.9M  6 Mar 12:13 python34.dll
+-rw-r--r--  1 jthetzel  2091778452   127K  6 Mar 12:13 pywintypes34.dll
+-rw-r--r--  1 jthetzel  2091778452    11K  6 Mar 12:13 select.pyd
+-rw-r--r--  1 jthetzel  2091778452   1.3M  6 Mar 12:13 test.exe
+-rw-r--r--  1 jthetzel  2091778452   698B  6 Mar 12:13 test.exe.manifest
+-rw-r--r--  1 jthetzel  2091778452   745K  6 Mar 12:13 unicodedata.pyd
+-rw-r--r--  1 jthetzel  2091778452   122K  6 Mar 12:13 win32api.pyd
+
+dist34/test/Include:
+total 48
+-rw-r--r--  1 jthetzel  2091778452    21K  6 Mar 12:13 pyconfig.h
