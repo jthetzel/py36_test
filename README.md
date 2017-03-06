@@ -1,5 +1,5 @@
 # py36_test
-Testing PyInstaller with Python 3.6 on Windows 10. Tested with PyInstaller develop branch: https://github.com/pyinstaller/pyinstaller/commit/98e4482ac3a72bcce9e41aef90bc9392129d6b59
+Testing PyInstaller with Python 3.6 on Windows 10. Tested with PyInstaller develop branch (PyInstaller 3.3.dev): https://github.com/pyinstaller/pyinstaller/commit/98e4482ac3a72bcce9e41aef90bc9392129d6b59
 
 ## Steps to reproduce
 On a Windows development machine:
@@ -14,3 +14,8 @@ On a Windows testing machine with a fresh Windows 10 installation:
 - Run: `dist\test\test`:
 
 `Error loading Python DLL: X:\.local\src\py36_test\dist\test\python36.dll (error code 126)`
+
+
+## Notes
+- Rebuilding with Python 3.5 and PyInstaller 3.2 on the development machine, the testing machine fails with the same error (except python35.dll is referenced). 
+- Rebuilding with Python 3.5 and PyInstaller 3.2 on the development machine, the testing machine succeeds, logging 'Hello World' to stdout.
