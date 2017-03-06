@@ -1,0 +1,136 @@
+(wvenv35) Z:\.local\src\py36_test>pyinstaller test.spec
+178 INFO: PyInstaller: 3.2
+178 INFO: Python: 3.5.3
+178 INFO: Platform: Windows-10-10.0.14393-SP0
+195 INFO: UPX is not available.
+198 INFO: Extending PYTHONPATH with paths
+['Z:\\.local\\src\\py36_test', 'Z:\\.local\\src\\py36_test']
+198 INFO: checking Analysis
+199 INFO: Building Analysis because out00-Analysis.toc is non existent
+199 INFO: Initializing module dependency graph...
+200 INFO: Initializing module graph hooks...
+200 INFO: Analyzing base_library.zip ...
+3402 INFO: running Analysis out00-Analysis.toc
+3402 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
+  required by z:\.local\src\wvenv35\scripts\python.exe
+3499 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-runtime-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3518 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-math-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3533 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-heap-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3533 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-locale-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3902 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-stdio-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3918 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-convert-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3949 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-string-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3949 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-time-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3949 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-process-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3965 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-filesystem-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3981 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-environment-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3981 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-conio-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+3981 INFO: Caching module hooks...
+4002 INFO: Analyzing test.py
+4103 INFO: Loading module hooks...
+4103 INFO: Loading module hook "hook-xml.py"...
+4351 INFO: Loading module hook "hook-pydoc.py"...
+4351 INFO: Loading module hook "hook-encodings.py"...
+4382 INFO: Looking for ctypes DLLs
+4382 INFO: Analyzing run-time hooks ...
+4404 INFO: Looking for dynamic libraries
+4851 WARNING: Can not get binary dependencies for file: C:\Program Files (x86)\Windows Kits\10\Redist\ucrt\DLLs\x64\api-ms-win-crt-utility-l1-1-0.dll
+Traceback (most recent call last):
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 695, in getImports
+    return _getImports_pe(pth)
+  File "z:\.local\src\wvenv35\lib\site-packages\PyInstaller\depend\bindepend.py", line 122, in _getImports_pe
+    dll, _ = sym.forwarder.split('.')
+TypeError: a bytes-like object is required, not 'str'
+4851 INFO: Looking for eggs
+4851 INFO: Using Python library z:\.local\src\wvenv35\scripts\python35.dll
+4851 INFO: Found binding redirects:
+[]
+4851 INFO: Warnings written to Z:\.local\src\py36_test\build\test\warntest.txt
+4866 INFO: checking PYZ
+4866 INFO: Building PYZ because out00-PYZ.toc is non existent
+4866 INFO: Building PYZ (ZlibArchive) Z:\.local\src\py36_test\build\test\out00-PYZ.pyz
+5352 INFO: checking PKG
+5352 INFO: Building PKG because out00-PKG.toc is non existent
+5352 INFO: Building PKG (CArchive) out00-PKG.pkg
+5405 INFO: Bootloader z:\.local\src\wvenv35\lib\site-packages\PyInstaller\bootloader\Windows-64bit\run.exe
+5405 INFO: checking EXE
+5405 INFO: Building EXE because out00-EXE.toc is non existent
+5405 INFO: Building EXE from out00-EXE.toc
+5405 INFO: Appending archive to EXE Z:\.local\src\py36_test\build\test\test.exe
+5421 INFO: checking COLLECT
+5421 INFO: Building COLLECT because out00-COLLECT.toc is non existent
+5421 INFO: Building COLLECT out00-COLLECT.toc
+
+(wvenv35) Z:\.local\src\py36_test>

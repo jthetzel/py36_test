@@ -1,0 +1,46 @@
+(wvenv34) Z:\.local\src\py36_test>pyinstaller test.spec
+184 INFO: PyInstaller: 3.2
+184 INFO: Python: 3.4.3
+184 INFO: Platform: Windows-8-6.2.9200
+184 INFO: UPX is not available.
+200 INFO: Extending PYTHONPATH with paths
+['Z:\\.local\\src\\py36_test', 'Z:\\.local\\src\\py36_test']
+200 INFO: checking Analysis
+200 INFO: Building Analysis because out00-Analysis.toc is non existent
+200 INFO: Initializing module dependency graph...
+216 INFO: Initializing module graph hooks...
+216 INFO: Analyzing base_library.zip ...
+2135 INFO: Processing pre-find module path hook   distutils
+2157 INFO: distutils: retargeting to non-venv dir 'c:\\python34\\Lib\\distutils'
+3923 INFO: running Analysis out00-Analysis.toc
+4667 INFO: Caching module hooks...
+4683 INFO: Analyzing test.py
+4783 INFO: Loading module hooks...
+4783 INFO: Loading module hook "hook-distutils.py"...
+4783 INFO: Loading module hook "hook-pydoc.py"...
+4783 INFO: Loading module hook "hook-encodings.py"...
+4814 INFO: Loading module hook "hook-xml.py"...
+5084 INFO: Looking for ctypes DLLs
+5084 INFO: Analyzing run-time hooks ...
+5084 INFO: Looking for dynamic libraries
+5700 INFO: Looking for eggs
+5700 INFO: Using Python library z:\.local\src\wvenv34\scripts\python34.dll
+5700 INFO: Found binding redirects:
+[]
+5700 INFO: Warnings written to Z:\.local\src\py36_test\build\test\warntest.txt
+5731 INFO: checking PYZ
+5731 INFO: Building PYZ because out00-PYZ.toc is non existent
+5731 INFO: Building PYZ (ZlibArchive) Z:\.local\src\py36_test\build\test\out00-PYZ.pyz
+6516 INFO: checking PKG
+6516 INFO: Building PKG because out00-PKG.toc is non existent
+6516 INFO: Building PKG (CArchive) out00-PKG.pkg
+6554 INFO: Bootloader z:\.local\src\wvenv34\lib\site-packages\PyInstaller\bootloader\Windows-64bit\run.exe
+6554 INFO: checking EXE
+6570 INFO: Building EXE because out00-EXE.toc is non existent
+6570 INFO: Building EXE from out00-EXE.toc
+6570 INFO: Appending archive to EXE Z:\.local\src\py36_test\build\test\test.exe
+6570 INFO: checking COLLECT
+6570 INFO: Building COLLECT because out00-COLLECT.toc is non existent
+6585 INFO: Building COLLECT out00-COLLECT.toc
+
+(wvenv34) Z:\.local\src\py36_test>

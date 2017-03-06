@@ -1,0 +1,50 @@
+(wvenv36) Z:\.local\src\py36_test>pyinstaller test.py
+168 INFO: PyInstaller: 3.3.dev0+g8b05011.mod
+168 INFO: Python: 3.6.0
+168 INFO: Platform: Windows-10-10.0.14393-SP0
+168 INFO: wrote Z:\.local\src\py36_test\test.spec
+168 INFO: UPX is not available.
+168 INFO: Extending PYTHONPATH with paths
+['Z:\\.local\\src\\py36_test', 'Z:\\.local\\src\\py36_test']
+168 INFO: checking Analysis
+168 INFO: Building Analysis because out00-Analysis.toc is non existent
+168 INFO: Initializing module dependency graph...
+184 INFO: Initializing module graph hooks...
+184 INFO: Analyzing base_library.zip ...
+4084 INFO: running Analysis out00-Analysis.toc
+4084 INFO: Adding Microsoft.Windows.Common-Controls to dependent assemblies of final executable
+  required by z:\.local\src\wvenv36\scripts\python.exe
+4515 INFO: Caching module hooks...
+4515 INFO: Analyzing Z:\.local\src\py36_test\test.py
+4600 INFO: Loading module hooks...
+4600 INFO: Loading module hook "hook-encodings.py"...
+4753 INFO: Loading module hook "hook-pydoc.py"...
+4753 INFO: Loading module hook "hook-xml.py"...
+5038 INFO: Looking for ctypes DLLs
+5038 INFO: Analyzing run-time hooks ...
+5038 INFO: Looking for dynamic libraries
+5185 INFO: Looking for eggs
+5185 INFO: Using Python library z:\.local\src\wvenv36\scripts\python36.dll
+5185 INFO: Found binding redirects:
+[]
+5185 INFO: Warnings written to Z:\.local\src\py36_test\build\test\warntest.txt
+5200 INFO: checking PYZ
+5200 INFO: Building PYZ because out00-PYZ.toc is non existent
+5200 INFO: Building PYZ (ZlibArchive) Z:\.local\src\py36_test\build\test\out00-PYZ.pyz
+5684 INFO: Building PYZ (ZlibArchive) Z:\.local\src\py36_test\build\test\out00-PYZ.pyz completed successfully.
+5700 INFO: checking PKG
+5700 INFO: Building PKG because out00-PKG.toc is non existent
+5700 INFO: Building PKG (CArchive) out00-PKG.pkg
+5731 INFO: Building PKG (CArchive) out00-PKG.pkg completed successfully.
+5731 INFO: Bootloader z:\.local\src\pyinstaller\PyInstaller\bootloader\Windows-64bit\run.exe
+5731 INFO: checking EXE
+5731 INFO: Building EXE because out00-EXE.toc is non existent
+5731 INFO: Building EXE from out00-EXE.toc
+5731 INFO: Appending archive to EXE Z:\.local\src\py36_test\build\test\test.exe
+5731 INFO: Building EXE from out00-EXE.toc completed successfully.
+5747 INFO: checking COLLECT
+5747 INFO: Building COLLECT because out00-COLLECT.toc is non existent
+5747 INFO: Building COLLECT out00-COLLECT.toc
+6000 INFO: Building COLLECT out00-COLLECT.toc completed successfully.
+
+(wvenv36) Z:\.local\src\py36_test>
