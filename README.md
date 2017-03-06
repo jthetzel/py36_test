@@ -19,3 +19,4 @@ On a Windows testing machine with a fresh Windows 10 installation:
 ## Notes
 - Rebuilding with Python 3.5 and PyInstaller 3.2 on the development machine, the testing machine fails with the same error (except python35.dll is referenced). 
 - Rebuilding with Python 3.5 and PyInstaller 3.2 on the development machine, the testing machine succeeds, logging 'Hello World' to stdout.
+- Not reproducible in a *nix environment.
